@@ -26,3 +26,9 @@ This account contains my personal projects and learning records.
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
+### Main Project
+GridNote  
+Task management application built with Vue and Node.js.
+
+Repository:
+https://github.com/salmon-umai/gridnote
